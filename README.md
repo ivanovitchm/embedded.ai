@@ -36,6 +36,10 @@
         - Input [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/848bd54345ce4dc7bf7e4bc0ef8bddc5)
         - Processing [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b7f0325996f4497ab66af34dfb01d61b)
         - Output and final remarks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9af1e841bdc6481fbbcbe06b26f27d68)
+    - :page_facing_up: Further reading paper
+        - Vijay Janapa Reddi et al. Widening Access to Applied Machine Learning with TinyML [![Arxiv](https://img.shields.io/badge/paper-arxiv-red)](https://arxiv.org/pdf/2106.04008.pdf)
+
+
 - Machine Learning Fundamentals  [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_02/ml_fundamentals.pdf)
     - What is Machine Learning (ML)? [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/098676fae4c2464788dd67ac1b419340)
     - ML types [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4005e7ef95d4431db1bd266979a6789c)
