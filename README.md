@@ -45,4 +45,4 @@
         - Bias vs Variance [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c496098013c84911a9ac353fec7e3131) 
 - Calculus For Machine Learning [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/calculus-for-machine-learning/)
     - You'll learn how to: a) define mathematical functions using calculus; b) employ intermediate machine learning techniques.
-    - :hourglass_flowing_sand: Estimated time: 8h
+    - :hourglass_flowing_sand: Estimated time: 6h
