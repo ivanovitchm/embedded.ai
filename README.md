@@ -36,8 +36,10 @@
         - Input [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/848bd54345ce4dc7bf7e4bc0ef8bddc5)
         - Processing [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b7f0325996f4497ab66af34dfb01d61b)
         - Output and final remarks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9af1e841bdc6481fbbcbe06b26f27d68)
+        - :hourglass_flowing_sand: Estimated time: 30min to 1h.
     - :page_facing_up: Further reading paper
         - Vijay Janapa Reddi et al. Widening Access to Applied Machine Learning with TinyML [![Arxiv](https://img.shields.io/badge/paper-arxiv-red)](https://arxiv.org/pdf/2106.04008.pdf)
+        - :hourglass_flowing_sand: Estimated time: 4h
 
 
 - Machine Learning Fundamentals  [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_02/ml_fundamentals.pdf)
@@ -46,7 +48,8 @@
     - Main challenges of ML
         - Variables, pipeline, and controlling chaos [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f5456342c6b643799c1824362020fc5e)
         - Train, dev and test sets [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/954298d6f4c1433488239956b5d7007e)
-        - Bias vs Variance [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c496098013c84911a9ac353fec7e3131) 
+        - Bias vs Variance [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c496098013c84911a9ac353fec7e3131)
+    - :hourglass_flowing_sand: Estimated time: 2h
 - Calculus For Machine Learning [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/calculus-for-machine-learning/)
     - You'll learn how to: a) define mathematical functions using calculus; b) employ intermediate machine learning techniques.
     - :hourglass_flowing_sand: Estimated time: 6h
