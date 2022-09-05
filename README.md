@@ -32,10 +32,10 @@
 **Week 02**: TinyML Fundamentals
 - Why our business need AI? And bigger is not always better!! [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_02/tinyml_fundamentals_part1.pdf)
 - How do we enable TinyML? [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_02/tinyml_fundamentals_part2.pdf) [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bcb21b8a709f442aa6069b39a2cd339a)
-- Three fundamental steps to explore a TinyML solution
-    - Input [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/848bd54345ce4dc7bf7e4bc0ef8bddc5)
-    - Processing [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b7f0325996f4497ab66af34dfb01d61b)
-    - Output and final remarks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9af1e841bdc6481fbbcbe06b26f27d68)
+    - Three fundamental steps to explore a TinyML solution
+        - Input [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/848bd54345ce4dc7bf7e4bc0ef8bddc5)
+        - Processing [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b7f0325996f4497ab66af34dfb01d61b)
+        - Output and final remarks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9af1e841bdc6481fbbcbe06b26f27d68)
 - Machine Learning Fundamentals  [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_02/ml_fundamentals.pdf)
     - What is Machine Learning (ML)? [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/098676fae4c2464788dd67ac1b419340)
     - ML types [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4005e7ef95d4431db1bd266979a6789c)
