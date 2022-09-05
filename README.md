@@ -26,5 +26,13 @@
     - :hourglass_flowing_sand: Estimated time: 5h
 - Complementary materials
     - Google Colab Introduction [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca)
-    - Google Colab Cont. [optional] [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_01/Python_Tutorial.ipynb)
+    - Google Colab Cont. [optional] [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_01/Python_Tutorial.ipynb)
     - :hourglass_flowing_sand: Estimated time: 2h
+
+**Week 02**: TinyML Fundamentals
+- Why our business need AI? And bigger is not always better!! [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_02/tinyml_fundamentals_part1.pdf)
+- How do we enable TinyML? [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_02/tinyml_fundamentals_part2.pdf) [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bcb21b8a709f442aa6069b39a2cd339a)
+- Three fundamental steps to explore a TinyML solution
+    - Input [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/848bd54345ce4dc7bf7e4bc0ef8bddc5)
+    - Processing [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b7f0325996f4497ab66af34dfb01d61b)
+    - Output and final remarks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9af1e841bdc6481fbbcbe06b26f27d68)
