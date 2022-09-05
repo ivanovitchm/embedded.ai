@@ -36,3 +36,10 @@
     - Input [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/848bd54345ce4dc7bf7e4bc0ef8bddc5)
     - Processing [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b7f0325996f4497ab66af34dfb01d61b)
     - Output and final remarks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9af1e841bdc6481fbbcbe06b26f27d68)
+- Machine Learning Fundamentals  [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_02/ml_fundamentals.pdf)
+    - What is Machine Learning (ML)? [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/098676fae4c2464788dd67ac1b419340)
+    - ML types [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4005e7ef95d4431db1bd266979a6789c)
+    - Main challenges of ML
+        - Variables, pipeline, and controlling chaos [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f5456342c6b643799c1824362020fc5e)
+        - Train, dev and test sets [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/954298d6f4c1433488239956b5d7007e)
+        - Bias vs Variance [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c496098013c84911a9ac353fec7e3131) 
