@@ -61,7 +61,16 @@
     - AI infrastructure [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9119e306aa5f49dfab0414c0c673be27)
     - A typical ML workflow [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f53740fb59ce4a029eac1e906f73d52d)
     - A TinyML workflow [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/2126d309b0554825b06488db997b16a1)
+    - :hourglass_flowing_sand: Estimated time: 30min
 - ML evaluation metrics [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_03/ML%20-%20Evaluation%20Metrics.pdf)
     - How to choose an evaluation metric? [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3dd9bd6dcb844704ba9cd1e1b34932c3)
     - Threshold metrics [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/efc3248b6f8747a3ab86cd22cadde993)
     - Ranking metrics [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1394db7fc27e4592af6f538c06cebbd1)
+    - :hourglass_flowing_sand: Estimated time: 1h
+- Linear Algebra For Machine Learning [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/linear-algebra-for-machine-learning/)
+    - You'll learn how to: a) Understand the key ideas to understand linear systems; b) Apply the concepts to machine learning techniques.
+    - :hourglass_flowing_sand: Estimated time: 6h
+- :page_facing_up: Further reading paper
+        -  Visal Rajapakse et al. Intelligence at the Extreme Edge: A Survey on Reformable TinyML [![Arxiv](https://img.shields.io/badge/paper-arxiv-red)](https://arxiv.org/abs/2204.00827)
+        - Sam Leroux et al. TinyMLOps: Operational Challenges for Widespread Edge AI Adoption [![Arxiv](https://img.shields.io/badge/paper-arxiv-red)](https://arxiv.org/abs/2203.10923)
+        - :hourglass_flowing_sand: Estimated time: 10h
