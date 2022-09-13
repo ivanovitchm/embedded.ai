@@ -53,3 +53,5 @@
 - Calculus For Machine Learning [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/calculus-for-machine-learning/)
     - You'll learn how to: a) define mathematical functions using calculus; b) employ intermediate machine learning techniques.
     - :hourglass_flowing_sand: Estimated time: 6h
+
+**Week 03**: TinyML Challenges
