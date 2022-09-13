@@ -71,6 +71,6 @@
     - You'll learn how to: a) Understand the key ideas to understand linear systems; b) Apply the concepts to machine learning techniques.
     - :hourglass_flowing_sand: Estimated time: 6h
 - :page_facing_up: Further reading paper
-        -  Visal Rajapakse et al. Intelligence at the Extreme Edge: A Survey on Reformable TinyML [![Arxiv](https://img.shields.io/badge/paper-arxiv-red)](https://arxiv.org/abs/2204.00827)
-        - Sam Leroux et al. TinyMLOps: Operational Challenges for Widespread Edge AI Adoption [![Arxiv](https://img.shields.io/badge/paper-arxiv-red)](https://arxiv.org/abs/2203.10923)
-        - :hourglass_flowing_sand: Estimated time: 10h
+    -  Visal Rajapakse et al. Intelligence at the Extreme Edge: A Survey on Reformable TinyML [![Arxiv](https://img.shields.io/badge/paper-arxiv-red)](https://arxiv.org/abs/2204.00827)
+    - Sam Leroux et al. TinyMLOps: Operational Challenges for Widespread Edge AI Adoption [![Arxiv](https://img.shields.io/badge/paper-arxiv-red)](https://arxiv.org/abs/2203.10923)
+    - :hourglass_flowing_sand: Estimated time: 10h
