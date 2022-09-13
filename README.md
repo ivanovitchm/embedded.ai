@@ -55,3 +55,9 @@
     - :hourglass_flowing_sand: Estimated time: 6h
 
 **Week 03**: TinyML Challenges
+- What are the challenges for TinyML? [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_03/TinyML%20Challenges.pdf)
+- AI lifecycle and ML workflow [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_03/AI%20Lifecycle%20and%20ML%20Workflow.pdf)
+    - AI lifecycle introduction [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/a07891c7734745c6bde4bce56986fbf5)
+    - AI infrastructure [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9119e306aa5f49dfab0414c0c673be27)
+    - A typical ML workflow [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f53740fb59ce4a029eac1e906f73d52d)
+    - A tinyML workflow [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/2126d309b0554825b06488db997b16a1)
