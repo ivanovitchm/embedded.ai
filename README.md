@@ -74,3 +74,17 @@
     -  Visal Rajapakse et al. Intelligence at the Extreme Edge: A Survey on Reformable TinyML [![Arxiv](https://img.shields.io/badge/paper-arxiv-red)](https://arxiv.org/abs/2204.00827)
     - Sam Leroux et al. TinyMLOps: Operational Challenges for Widespread Edge AI Adoption [![Arxiv](https://img.shields.io/badge/paper-arxiv-red)](https://arxiv.org/abs/2203.10923)
     - :hourglass_flowing_sand: Estimated time: 10h
+
+**Week 04**: Deep Learning Fundamentals
+- The big-picture [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_04/DL%20Fundamentals%20-%20Big%20Picture.pdf)
+- Introduction [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_04/Deep%20Learning%20Fundamentals%20-%20Introduction.pdf)
+    - Outline [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/694778c1c318458589ad1990c1bb9614)
+    - The perceptron [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8d0ed35c632a4f0e805c103376974ec6)
+    - Building Neural Networks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4ed93e63f36f468dad163bde0ed4102c)
+    - Matrix Dimension [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/ac46a8425264456ea91f9644df3d992a)
+    - Applying Neural Networks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/24f247d0c8a74a48b3e481985fd843bd)
+    - Training a Neural Networks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c96bebdd16d9444e9c4adf23a4a93398)
+    - Backpropagation with Pencil & Paper [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3098f18d6fdc4a039d5e382357bebc82)
+    - Learning rate & Batch Size [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4271c1e07f294ec181a0b40b93f604b7)
+    - Exponentially Weighted Average [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/eb2e3905d23742d98572d14120fb3f57)
+    - Adam, Momentum, RMSProp, Learning Rate Decay [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6b4b3a14b3044dfdbe76a5606bc8e513)
