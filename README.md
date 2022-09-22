@@ -78,7 +78,6 @@
 **Week 04**: Deep Learning Fundamentals
 - The big-picture [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_04/DL%20Fundamentals%20-%20Big%20Picture.pdf)
 - Introduction [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_04/Deep%20Learning%20Fundamentals%20-%20Introduction.pdf)
-    - Outline [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/694778c1c318458589ad1990c1bb9614)
     - The perceptron [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8d0ed35c632a4f0e805c103376974ec6)
     - Building Neural Networks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4ed93e63f36f468dad163bde0ed4102c)
     - Matrix Dimension [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/ac46a8425264456ea91f9644df3d992a)
