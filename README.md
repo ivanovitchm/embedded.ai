@@ -87,4 +87,4 @@
     - Learning rate & Batch Size [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4271c1e07f294ec181a0b40b93f604b7)
     - Exponentially Weighted Average [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/eb2e3905d23742d98572d14120fb3f57)
     - Adam, Momentum, RMSProp, Learning Rate Decay [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6b4b3a14b3044dfdbe76a5606bc8e513)
-    - :hourglass_flowing_sand: Estimated time: 4h
+    - :hourglass_flowing_sand: Estimated time: 6h to 8h
