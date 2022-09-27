@@ -8,7 +8,7 @@ Ivanovitch Silva created the model. A complete data pipeline was built using Goo
 <img width="800" src="fig/workflow.png">
 
 ## Intended Use
-This model is used as a proof of concept for the evaluation of an entire data pipeline incorporating Machine Learning fundamentals. The data pipeline is composed of the following stages: a) ``fecht data``, b) ``preprocess``, c) <skiped for simplification> ``check data``, d) ``segregate``, e) ``train`` and f) ``test``.
+This model is used as a proof of concept for the evaluation of an entire data pipeline incorporating Machine Learning fundamentals. The data pipeline is composed of the following stages: a) ``fecht data``, b) ``preprocess``, c) ---``check data``---, d) ``segregate``, e) ``train`` and f) ``test``.
 
 ## Training Data
 
