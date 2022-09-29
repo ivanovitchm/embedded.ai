@@ -93,7 +93,7 @@
     - :hourglass_flowing_sand: Estimated time: 8h
 
 **Week 05**: Deep Learning Fundamentals II
-- A first image classification model using MLOps best practices [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_05/Week%2005.pdf)[![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/tree/main/lessons/week_05/first_classifier)
+- A first image classification model using MLOps best practices [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_05/Week%2005.pdf) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/tree/main/lessons/week_05/first_classifier)
 - Project :star2: :smiley_cat: :dog: :panda_face:
     - Explore MLOps tools [Wandb](https://wandb.ai/)
     - Hyperparameter tuning using Sweeps
