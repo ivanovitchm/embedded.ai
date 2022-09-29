@@ -75,7 +75,7 @@
     - Sam Leroux et al. TinyMLOps: Operational Challenges for Widespread Edge AI Adoption [![Arxiv](https://img.shields.io/badge/paper-arxiv-red)](https://arxiv.org/abs/2203.10923)
     - :hourglass_flowing_sand: Estimated time: 10h
 
-**Week 04**: Deep Learning Fundamentals
+**Week 04**: Deep Learning Fundamentals I
 - The big-picture [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_04/DL%20Fundamentals%20-%20Big%20Picture.pdf)
 - Introduction [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_04/Deep%20Learning%20Fundamentals%20-%20Introduction.pdf)
     - The perceptron [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8d0ed35c632a4f0e805c103376974ec6)
@@ -90,4 +90,12 @@
     - :hourglass_flowing_sand: Estimated time: 6h to 8h
 - Hands on DL fundamentals [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/deep-learning-fundamentals/)
     - You'll learn how to: a) Understand how neural networks are represented; b) understand how adding hidden layers can provide improved model performance; c) Understand how neural networks capture nonlinearity in the data.
+    - :hourglass_flowing_sand: Estimated time: 8h
+
+**Week 05**: Deep Learning Fundamentals II
+- A first image classification model using MLOps best practices [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)]()[![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/tree/main/lessons/week_05/first_classifier)
+- Project :star2: :smiley_cat: :dog: :panda_face:
+    - Explore MLOps tools [Wandb](https://wandb.ai/)
+    - Hyperparameter tuning using Sweeps
+    - Compare MLP vs KNN
     - :hourglass_flowing_sand: Estimated time: 8h
