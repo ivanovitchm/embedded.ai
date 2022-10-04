@@ -116,3 +116,4 @@
     - Batch Normalization Math Details [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9bd7666149694da39d3aef344d7b3abe)
     - Batch Normalization - Case Study [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/5c0da2ffbc0c4565905137bf1f6c114b)
     - Dropout [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1a567d7af3494e89a44b9a607cab8373)
+    - :hourglass_flowing_sand: Estimated time: 1h
