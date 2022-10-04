@@ -99,3 +99,7 @@
     - Hyperparameter tuning using Sweeps
     - Compare MLP vs KNN
     - :hourglass_flowing_sand: Estimated time: 8h
+
+**Week 06**: Convolutional Neural Networks
+- Previously on last weeks [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)]()
+- CNN Fundamentals [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)]()
