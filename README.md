@@ -101,5 +101,5 @@
     - :hourglass_flowing_sand: Estimated time: 8h
 
 **Week 06**: Convolutional Neural Networks
-- Previously on last weeks [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)]()
-- CNN Fundamentals [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)]()
+- Previously on last weeks [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_06/Review.pdf)
+- CNN Fundamentals [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_06/CNN%20Fundamentals.pdf)
