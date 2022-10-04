@@ -111,3 +111,8 @@
     - Pooling Layer [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/14c185c0ef6c422ca413d9ec4947beef)
     - Fully-Connected Layer  [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d2fe00b7321946748a2deafe6038b111)
      - :hourglass_flowing_sand: Estimated time: 2h
+- CNN Fundamentals III [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_06/CNN%20Fundamentals%20III.pdf)
+    - Batch Normalization Fundamentals [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/e4f7512f0ebf4f9199b094f062b605db)
+    - Batch Normalization Math Details [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9bd7666149694da39d3aef344d7b3abe)
+    - Batch Normalization - Case Study [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/5c0da2ffbc0c4565905137bf1f6c114b)
+    - Dropout [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1a567d7af3494e89a44b9a607cab8373)
