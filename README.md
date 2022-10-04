@@ -103,7 +103,7 @@
 **Week 06**: Convolutional Neural Networks
 - Previously on last weeks [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_06/Review.pdf)
 - CNN Fundamentals I [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_06/CNN%20Fundamentals.pdf)
-    - Convolution with OpenCV and Python [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/tree/main/lessons/week_05/first_classifier)
+    - Convolution with OpenCV and Python [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_06/Kernel.ipynb)
 - CNN Fundamentals II [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_06/CNN%20Fundamentals%20II.pdf)
     - Motivation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/865e030bda434919a38f5930e7dad905)
     - Convolution Layer [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3a704c484eb445b4a378fced12260500)
