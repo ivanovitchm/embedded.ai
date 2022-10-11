@@ -119,8 +119,8 @@
     - :hourglass_flowing_sand: Estimated time: 1h
 
 **Week 07**: Using CNN to Classify Images
-    - A MLOPs pipeline using Tensorflow, Keras, Wandb [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/tree/main/lessons/week_07)
-        - Preprocessing
-        - Data segregation
-        - Train
-        - Test
+- A MLOPs pipeline using Tensorflow, Keras, Wandb [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/tree/main/lessons/week_07)
+    - Preprocessing
+    - Data segregation
+    - Train
+    - Test
