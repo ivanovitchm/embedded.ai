@@ -125,8 +125,8 @@
     - Train
     - Test
 
-**Week 08**: Going Deeper with CNN [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_08/Week%2008%20-%20Part%20I.pdf)
-- Study of Classical Architectures
+**Week 08**: Going Deeper with CNN 
+- Study of Classical Architectures [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_08/Week%2008%20-%20Part%20I.pdf)
 - LeNet-5 [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/tree/main/lessons/week_08)
      - Best practices
      - Extensions using: batch normalization, dropout, data augmentation
