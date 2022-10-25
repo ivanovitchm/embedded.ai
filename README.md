@@ -132,5 +132,5 @@
      - Extensions using: batch normalization, dropout, data augmentation
      - Sweepy (hyperparameter tuning)
 
-**Week 08**: Going Deeper with CNN II
-- AlexNet [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/tree/main/lessons/week_08)
+**Week 09**: Going Deeper with CNN II
+- AlexNet [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/tree/main/lessons/week_09)
