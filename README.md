@@ -133,4 +133,4 @@
      - Sweepy (hyperparameter tuning)
 
 **Week 08**: Going Deeper with CNN II
-- AlexNet [![Jupyter](https://github.com/ivanovitchm/embedded.ai/tree/main/lessons/week_08)](
+- AlexNet [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/tree/main/lessons/week_08)
