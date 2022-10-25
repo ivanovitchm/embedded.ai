@@ -131,3 +131,6 @@
      - Best practices
      - Extensions using: batch normalization, dropout, data augmentation
      - Sweepy (hyperparameter tuning)
+
+**Week 08**: Going Deeper with CNN II
+- AlexNet [![Jupyter](https://github.com/ivanovitchm/embedded.ai/tree/main/lessons/week_08)](
