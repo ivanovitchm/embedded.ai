@@ -137,5 +137,5 @@
 - VGG and Inception [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_09/Week%2009.pdf) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_09/VGG_Inception.ipynb)
 
 **Week 10**: Transfer Learning
-- Feature extractor and fine-tuning [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_08/Week%2008%20-%20Part%20I.pdf)
-- Hands on [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/tree/main/lessons/week_10)
+- Feature extractor and fine-tuning [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_10/TransferLearning.pdf)
+- Hands on [![Jupyter](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_10/TransferLearning.ipynb)
