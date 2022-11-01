@@ -138,4 +138,4 @@
 
 **Week 10**: Transfer Learning
 - Feature extractor and fine-tuning [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_10/TransferLearning.pdf)
-- Hands on [![Jupyter](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_10/TransferLearning.ipynb)
+- Hands on [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_10/TransferLearning.ipynb)
