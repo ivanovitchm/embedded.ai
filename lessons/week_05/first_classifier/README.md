@@ -17,6 +17,8 @@ that we can quickly train a KNN model and obtain initial results (no so good acc
 
 After the EDA stage of the data pipeline, it was noted that the images in training data has different resolutions. A pre-processing stage is necessary in order to normalize all images using the same size. 
 
+The raw dataset can be donwload from [here](https://drive.google.com/file/d/1drh-JoatOlE26bdFQZ-dubj2A_RB8MNQ/view?usp=sharing). 
+
 <img width="600" src="fig/EDA.png">
 
 
