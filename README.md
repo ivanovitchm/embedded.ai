@@ -143,7 +143,7 @@
 **Week 11**: Edge Impulse crash course
 - A brief overview of Edge Impulse Platform [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b440c0ace9224bf78a1590b8b68f0bba)
 - Data Acquisition [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d33e84b1acab440a865c17dae71ef607)
-- Create a impulse design and a preprocessing task [![Open in Loom](https://www.loom.com/share/eab6c4961e7b41f194ee0f765ef47a5e)
+- Create a impulse design and a preprocessing task [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/eab6c4961e7b41f194ee0f765ef47a5e)
 - Training [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/b28ab16764b0460298f4c5d13fd2d1cf)
 - Understanding training evaluation metrics [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c7c851f293304de7a7d4ab3ac02fb5c0)
 - Model testing [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bcb2693eb6ca4faebe0296a6cabca9c7)
