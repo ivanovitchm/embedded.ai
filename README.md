@@ -153,3 +153,15 @@
 - Set a primary model using EON Tuner and Transfer Learning [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/2ab24a0e2da345809680a3226e09a7fb)
 - Training an EON Tuner primary model using transfer learning  [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/94856907470149ee843a004357ee866a)
 - Final remarks  [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1aa62ff0836a4e47809938a4fd1e2577)
+
+
+**Week 12**: TFLite Optimizations and Quantization
+- Post Training Quantization (PTQ) [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_10/Quantization.pdf)
+- Introduction to TensorFlow-Lite [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_12/An_Introduction_to_TensorFlow_Lite.ipynb)
+- PTQ of MNIST [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_12/Post_training_integer_quantization_of_MNIST.ipynb)
+- A regression model using TensorFlow-Lite [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_12/A_regression_model_using_a_TF_Lite.ipynb)
+- Case study using Wandb developed by [Ishan Dutta](https://wandb.ai/ishandutta) et al. 
+    - Optimizing Models with Post-Training Quantization in Keras - Part I [![Open in Wandb](https://img.shields.io/badge/w%26b-weights%20and%20biases-yellow)](https://wandb.ai/ishandutta/Post%20Training%20Quantization/reports/Optimizing-Models-with-Post-Training-Quantization-in-Keras-Part-I--VmlldzoxNDI3ODQz)
+    - Optimizing Models with Quantization-Aware Training in Keras - Part II [![Open in Wandb](https://img.shields.io/badge/w%26b-weights%20and%20biases-yellow)](https://wandb.ai/ishandutta/Quantization%20Aware%20Training/reports/Optimizing-Models-with-Quantization-Aware-Training-in-Keras-Part-II--VmlldzoxNDU5NTkz)
+
+
