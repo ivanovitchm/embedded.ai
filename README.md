@@ -156,7 +156,7 @@
 
 
 **Week 12**: TFLite Optimizations and Quantization
-- Post Training Quantization (PTQ) [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_10/Quantization.pdf)
+- Post Training Quantization (PTQ) [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_12/Quantization.pdf)
 - Introduction to TensorFlow-Lite [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_12/An_Introduction_to_TensorFlow_Lite.ipynb)
 - PTQ of MNIST [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_12/Post_training_integer_quantization_of_MNIST.ipynb)
 - A regression model using TensorFlow-Lite [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/embedded.ai/blob/main/lessons/week_12/A_regression_model_using_a_TF_Lite.ipynb)
